@@ -1,7 +1,7 @@
 {
   "name": "webpack-bin-demo",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "webpack-bin-demo",
   "main": "./bin/index.js",
   "scripts": {
     "test": "node bin help"
@@ -9,5 +9,8 @@
   "bin": "./bin/index.js",
   "keywords": ["spawnSync"],
   "author": "babytutu",
-  "license": "ISC"
+  "license": "ISC",
+  "files": [
+    "bin/"
+  ]
 }
